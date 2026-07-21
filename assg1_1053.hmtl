@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Profile</title>
+    <link rel="icon" href="images/logo.jpeg" type="image/jpeg">
+</head>
+
+<body>
+
+<div>
+    <h1>Manny</h1>
+    <h2>Computer Science and Engineering</h2>
+    <h3>Karunya Institute of Technology and Sciences</h3>
+    <h4>Coimbatore</h4>
+    <h5>Tamil Nadu</h5>
+    <h6>India</h6>
+</div>
+
+<hr>
+
+<div>
+    <h2>About Me</h2>
+
+    <p>
+        Hello! My name is <b>Manny</b>. I am a <u>Computer Science student</u> who enjoys learning new technologies and solving problems through coding.
+        I am especially interested in <i>artificial intelligence</i> and web development.
+        I believe in <strong>working consistently</strong> and <em>learning something new every day</em>.
+        I have <ins>improved my programming skills</ins> over the past few years and have <del>stopped procrastinating as much</del>.
+    </p>
+</div>
+
+<hr>
+
+<div>
+    <h2>Educational Details</h2>
+
+    <p>Water Formula: H<sub>2</sub>O</p>
+
+    <p>Mathematical Expression: x<sup>2</sup> + y<sup>2</sup></p>
+</div>
+
+<hr>
+
+<div>
+    <h2>Image Gallery</h2>
+
+    <h3>Images from My Folder</h3>
+
+    <img src="images/logo.jpeg" width="180" height="120">
+    <img src="images/cave.jpeg" width="180" height="120">
+    <img src="images/scene.jpeg" width="180" height="120">
+    <img src="images/tiger.jpeg" width="180" height="120">
+    <img src="images/logo.jpeg" width="180" height="120">
+
+    <br><br>
+
+    <h3>Images from the Internet</h3>
+
+    <img src="https://picsum.photos/200?1" width="180" height="120">
+    <img src="https://picsum.photos/200?2" width="180" height="120">
+    <img src="https://picsum.photos/200?3" width="180" height="120">
+    <img src="https://picsum.photos/200?4" width="180" height="120">
+    <img src="https://picsum.photos/200?5" width="180" height="120">
+
+</div>
+
+</body>
+</html>
